@@ -1,0 +1,2 @@
+# Friendly-Quiz
+This quiz have done with Command line interface where the person participated in it goes through a sequental process where a correct answer increments you score with 2 points and if you enter a wrong one , score decrements by 1 point.
